@@ -1,7 +1,7 @@
 ﻿---config@码表分类=主码-系统码表
 ---config@码表别名=系统词库
-工	aaa
-工	aaaa
+工	aaa#删
+工	aaaa#删
 其实	adpu
 工作	aawt
 或	ak
@@ -4067,7 +4067,6 @@
 苏丹红	amxa
 医疗机构	auss
 医疗保险	auwb
-也	b
 也	bn
 了	bnh
 也	bnhn
@@ -4083,9 +4082,9 @@
 阿	bsk
 阿	bskg
 子	b
-子	bb
-子	bbb
-子	bbbb
+子	bb#删
+子	bbb#删
+子	bbbb#删
 了解	bnqe
 出去	bmfc
 队	bw
@@ -6190,8 +6189,8 @@
 联系电话	btjy
 联系方式	btya
 又	c
-又	ccc
-又	cccc
+又	ccc#删
+又	cccc#删
 对	cf
 对	cfy
 能	ce
@@ -8010,8 +8009,8 @@
 在	dhf
 在	dhfd
 大	d
-大	dd
-大	dddd
+大	dd#删
+大	dddd#删
 有	def
 而	dmj
 而	dmjj
@@ -8105,7 +8104,7 @@
 而言	dmyy
 厂	dgt
 石	dgtg
-石	d
+石	d#删
 破	dhc
 破	dhcy
 页	dmu
@@ -12642,8 +12641,8 @@
 春风吹又生	dmkt
 有眉目	dnhh
 月	e
-月	eee
-月	eeee
+月	eee#删
+月	eeee#删
 用	et
 用	etnh
 朋友	eedc
@@ -14507,7 +14506,7 @@
 地	fb
 地	fbn
 土	f
-土	ffff
+土	ffff#删
 都	ftjb
 去	fcu
 支持	fcrf
@@ -19353,8 +19352,8 @@
 来说	goyu
 于是	gfjg
 王	g
-王	ggg
-王	gggg
+王	ggg#删
+王	gggg#删
 一切	ggav
 开	ga
 开	gak
@@ -24708,7 +24707,7 @@
 上	hhg
 上	hhgg
 目	h
-目	hhhh
+目	hhhh#删
 点	hko
 点	hkou
 上海	hhit
@@ -26335,9 +26334,9 @@
 虎尾春冰	hndu
 目前为止	huyh
 水	i
-水	ii
-水	iii
-水	iiii
+水	ii#删
+水	iii#删
+水	iiii#删
 没有	imde
 小	ih
 小	iht
@@ -31628,7 +31627,7 @@
 是	jgh
 是	jghu
 日	j
-日	jjjj
+日	jjjj#删
 时	jf
 时	jfy
 时候	jfwh
@@ -34322,7 +34321,7 @@
 中	kh
 中	khk
 口	k
-口	kkkk
+口	kkkk#删
 啊	kb
 啊	kbs
 啊	kbsk
@@ -37328,7 +37327,7 @@
 国	lgyi
 田	l
 田	lll
-田	llll
+田	llll#删
 因为	ldyl
 回复	lktj
 国家	lgpe
@@ -39963,8 +39962,8 @@
 同	mgk
 同	mgkd
 山	m
-山	mmm
-山	mmmm
+山	mmm#删
+山	mmmm#删
 同时	mgjf
 由	mh
 由	mhng
@@ -42149,7 +42148,7 @@
 以	nywy
 民	nav
 已	n
-已	nnnn
+已	nnnn#删
 已经	nnxc
 以后	nyrg
 发展	ntna
@@ -42331,7 +42330,8 @@
 尼	nx
 尼	nxv
 惊人	nyww
-己	nng
+己	nn
+己	nng#删
 己	nngn
 发达	ntdp
 发明	ntje
@@ -45240,8 +45240,8 @@
 翠色欲流	nqwi
 民进党	nfip
 火	o
-火	ooo
-火	oooo
+火	ooo#删
+火	oooo#删
 精神	ogpy
 米	oy
 米	oyt
@@ -46768,9 +46768,9 @@
 炎天暑月	ogje
 粉饰一新	oqgu
 之	p
-之	pp
-之	ppp
-之	pppp
+之	pp#删
+之	ppp#删
+之	pppp#删
 被	puhc
 之后	pprg
 它	px
@@ -49907,7 +49907,7 @@
 窗明几静	pjmg
 袖手傍观	prwc
 金	q
-金	qqqq
+金	qqqq#删
 多	qq
 多	qqu
 希望	qdyn
@@ -54064,8 +54064,8 @@
 后面	rgdm
 报告	rbtf
 白	r
-白	rrr
-白	rrrr
+白	rrr#删
+白	rrrr#删
 年轻	rhlc
 制度	rmya
 打开	rsga
@@ -59762,7 +59762,7 @@
 要	sv
 要	svf
 木	s
-木	ssss
+木	ssss#删
 可以	skny
 可	sk
 可	skd
@@ -63847,8 +63847,8 @@
 艇	tet
 艇	tetp
 禾	t
-禾	ttt
-禾	tttt
+禾	ttt#删
+禾	tttt#删
 生物学	ttip
 特技	trrf
 千古	tfdg
@@ -68624,9 +68624,9 @@
 产	ut
 产	ute
 立	u
-立	uu
-立	uuu
-立	uuuu
+立	uu#删
+立	uuu#删
+立	uuuu#删
 将	uqf
 将	uqfy
 并	ua
@@ -73279,8 +73279,8 @@
 如	vkg
 妈妈	vcvc
 女	v
-女	vvv
-女	vvvv
+女	vvv#删
+女	vvvv#删
 那样	vfsu
 姐姐	veve
 好像	vbwq
@@ -75281,7 +75281,7 @@
 寻花觅柳	vaes
 群星灿烂	vjoo
 肃杀之气	vqpr
-人	wwww
+人	wwww#删
 你	wq
 你	wqi
 你	wqiy
@@ -82076,7 +82076,7 @@
 张挂	xtrf
 缍	xtg
 缍	xtgf
-纟	xxx
+纟	xxx#删
 纟	xxxx
 比配	xxsg
 比年	xxrh
@@ -83028,8 +83028,8 @@
 这	yp
 这	ypi
 言	y
-言	yyy
-言	yyyy
+言	yyy#删
+言	yyyy#删
 就	yi
 就	yidn
 这个	ypwh
