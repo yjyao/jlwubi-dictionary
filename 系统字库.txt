@@ -8909,8 +8909,9 @@
 兑	ukqb
 关	ud
 关	udu
-病	ugm
-病	ugmw
+病	ug#序0
+病	ugm#序0
+病	ugmw#序0
 冷	uwyc
 交	uq
 交	uqu
@@ -10281,8 +10282,9 @@
 弹	xujf
 纳	xmw
 纳	xmwy
-绝	xqc
-绝	xqcn
+绝	xq#序0
+绝	xqc#序0
+绝	xqcn#序0
 母	xgu
 母	xgui
 丝	xxg
