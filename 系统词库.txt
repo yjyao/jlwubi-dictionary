@@ -1,5 +1,5 @@
-﻿---config@码表分类=主码-4
----config@码表别名=系统词库
+﻿---config@码表分类=主码-1
+---config@码表别名=词库
 其实	adpu
 工作	aawt
 东西	aisg
