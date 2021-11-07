@@ -7150,7 +7150,8 @@
 舞	rlgh
 挖	rpwn
 制	rmhj
-推	rwyg
+推	rw#序0
+推	rwyg#序0
 排	rdj
 排	rdjd
 投	rmc
