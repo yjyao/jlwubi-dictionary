@@ -10601,6 +10601,7 @@
 请	yge
 请	ygeg
 该	yynw
+谁	ywy
 谁	ywyg
 高	ym
 高	ymk
@@ -10730,7 +10731,7 @@
 诚	ydn
 诚	ydnt
 认	yw
-认	ywy
+认	ywy#序0
 麽	yssc
 磨	yssd
 麽	yss
