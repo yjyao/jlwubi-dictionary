@@ -1920,7 +1920,8 @@
 土	f
 土	ffff#删
 都	ftjb
-去	fcu
+去	fc
+去	fcu#序0
 却	fcb
 却	fcbh
 过	fp
