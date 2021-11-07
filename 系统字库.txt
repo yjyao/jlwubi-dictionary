@@ -750,6 +750,7 @@
 陈	baiy
 孙	bi
 孙	biy
+耶	bb
 耶	bbh
 取	bc
 取	bcy
@@ -2377,13 +2378,14 @@
 颥	fdmm
 一	ggl
 一	ggll
-不	gi
+不	gi#删
 不	gii
 与	gn
 与	gng
 来	go
 到	gc
 到	gcfj
+还	gi
 还	gip
 还	gipi
 再	gmf
@@ -3180,6 +3182,7 @@
 涵	ibib
 涛	idt
 涛	idtf
+消	ii
 消	iie
 消	iieg
 兆	iqv
@@ -7688,7 +7691,7 @@
 瓞	rcyw
 捃	rvt
 捃	rvtk
-要	sv
+要	sv#删
 要	svf
 木	s
 木	ssss#删
@@ -7724,6 +7727,7 @@
 歌	sksw
 树	scf
 树	scfy
+根	sv
 根	sve
 根	svey
 样	su
@@ -10574,12 +10578,12 @@
 缂	xafh
 艴	xjq
 艴	xjqc
-主	yg
+主	yg#删
 主	ygd
-为	yl
+为	yl#删
 为	yly
 为	ylyi
-这	yp
+这	yp#删
 这	ypi
 言	y
 言	yyy#删
@@ -10591,6 +10595,7 @@
 说	yukq
 让	yh
 让	yhg
+请	yg
 请	yge
 请	ygeg
 该	yynw
@@ -10667,6 +10672,7 @@
 族	yttd
 康	yvi
 康	yvii
+亮	yp
 亮	ypm
 亮	ypmb
 广	yygt
@@ -10815,6 +10821,7 @@
 膏	ypke
 谨	yak
 谨	yakg
+谓	yl
 谓	yle
 谓	yleg
 诀	ynwy
