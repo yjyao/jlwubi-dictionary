@@ -7084,6 +7084,7 @@
 后	rg
 后	rgk
 后	rgkd
+把	rc
 把	rcn
 看	rhf
 所	rn
@@ -7122,7 +7123,7 @@
 报	rbcy
 撒	rae
 撒	raet
-反	rc
+反	rc#删
 反	rci
 提	rj
 提	rjgh
