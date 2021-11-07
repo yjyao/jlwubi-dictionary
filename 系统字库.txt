@@ -10762,10 +10762,11 @@
 剂	yjjh
 弃	yca
 弃	ycaj
-训	yk
+训	yk#删
 训	ykh
 误	ykg
 误	ykgd
+识	yk
 识	ykw
 识	ykwy
 庙	ymd
